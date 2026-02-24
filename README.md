@@ -1,5 +1,3 @@
-# github-demo
-
 # 💫 About Me:
 I'm a Web Developer using Laravel + Inertiajs (React/Vue)
 
@@ -14,8 +12,11 @@ I'm a Web Developer using Laravel + Inertiajs (React/Vue)
 ![](https://nirzak-streak-stats.vercel.app/?user=imnash21&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imnash21&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imnash21&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imnash21&icon=2&color=5)](https://visitcount.itsvg.in)
