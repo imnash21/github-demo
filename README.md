@@ -12,7 +12,7 @@ I'm a Web Developer using Laravel + Inertiajs (React/Vue)
 ![](https://nirzak-streak-stats.vercel.app/?user=imnash21&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imnash21&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
